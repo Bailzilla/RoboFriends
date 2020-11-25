@@ -15,4 +15,5 @@ code {
 img{
   border-radius: 15%;
   border-color: blueviolet;
+  height: 250px;
 }
