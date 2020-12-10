@@ -7,7 +7,7 @@ export const robots = [
     },
     {
       id: 2,
-      name: 'Ervin Howell',
+      name: 'Ervin Magic Johnson',
       username: 'Antonette',
       email: 'Shanna@melissa.tv'
     },
