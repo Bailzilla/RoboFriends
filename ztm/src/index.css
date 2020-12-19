@@ -16,4 +16,5 @@ img{
   border-radius: 15%;
   border-color: purple;
   height: 250px;
+  border-style: dashed;
 }
