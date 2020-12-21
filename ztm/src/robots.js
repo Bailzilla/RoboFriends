@@ -25,7 +25,7 @@ export const robots = [
     },
     {
       id: 5,
-      name: 'Chelsey Dietrich',
+      name: 'Rob Dietrich',
       username: 'Kamren',
       email: 'Lucio_Hettinger@annie.ca'
     },
