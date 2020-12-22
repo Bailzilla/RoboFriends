@@ -37,7 +37,7 @@ export const robots = [
     },
     {
       id: 7,
-      name: 'Kurtis Weist',
+      name: 'Kanye West',
       username: 'Elwyn.Skiles',
       email: 'Telly.Hoeger@billy.biz'
     },
