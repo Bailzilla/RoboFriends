@@ -8,7 +8,7 @@ export const robots = [
     {
       id: 2,
       name: 'Ervin Magic Johnson',
-      username: 'Antonette',
+      username: 'Maigc',
       email: 'Shanna@melissa.tv'
     },
     {
