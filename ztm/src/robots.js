@@ -51,7 +51,7 @@ export const robots = [
       id: 9,
       name: 'Glenna Close',
       username: 'Delphine',
-      email: 'Chaim_McDermott@dana.io'
+      email: 'Chain_McDermott@dana.io'
     },
     {
       id: 10,
